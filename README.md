@@ -14,4 +14,4 @@
   
   兼容各设备，完成媒介查询对移动端的适配
 
-## [实现效果图](https://lulujianglab.github.io/questionnaire-platform/)
+ [实现效果图](https://lulujianglab.github.io/questionnaire-platform/)
