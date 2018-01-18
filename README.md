@@ -13,3 +13,5 @@
   接入了echarts.js，美化了数据展示的样式
   
   兼容各设备，完成媒介查询对移动端的适配
+
+## [实现效果图](https://lulujianglab.github.io/questionnaire-platform/)
